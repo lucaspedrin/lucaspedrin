@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello there. 👋🏽
 
-<!--
-**lucaspedrin/lucaspedrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 Future front-end developer.
+- 🎮 Video game enthusiast.
+- ⚽ Soccer fan.
+- 💪🏽 Calisthenics practitioner.
+- 🖖🏽 Looking for knowledge.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspedrin&count_private=true&show_icons=true&theme=radical)](https://github.com/lucaspedrin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspedrin&layout=compact&theme=radical)](https://github.com/lucaspedrin)
+
+##
+
+<div align="center">
+  <a href="https://instagram.com/jr.nefake" target="_blank"><img align="center" alt="IG" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163566815-ef3aa04a-c766-45bd-b62c-f5bfafaa6400.svg" target="_blank"></a>
+  <a href="https://twitter.com/2kmonkeyks" target="_blank"><img align="center" alt"TT" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163567172-b9523cea-6208-4d1f-b540-0eb0411501ff.svg" target="_blank"></a>
+  </br>
+  <a href="https://github.com/lucaspedrin">
+  <img align="center" src="https://user-images.githubusercontent.com/103728603/163561908-e1d806f8-9d16-4f1e-a756-213ed518dbd7.gif">
+  </br>
+  <img align="center" alt="J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
