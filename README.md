@@ -20,9 +20,12 @@
   <a href="https://github.com/lucaspedrin">
   <img align="center" src="https://user-images.githubusercontent.com/103728603/170395142-0b858a5a-653a-4a08-b9d3-f00348926809.gif"></a>
   </br>
+  <a href="https://github.com/lucaspedrin">
   <img align="center" alt="J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </a>
-</div>
+</div>  <img align="center" src="https://user-images.githubusercontent.com/103728603/170395142-0b858a5a-653a-4a08-b9d3-f00348926809.gif">
+  <img align="c  <img align="center" src="https://user-images.githubusercontent.com/103728603/170395142-0b858a5a-653a-4a08-b9d3-f00348926809.gif">
+  <img align="c
