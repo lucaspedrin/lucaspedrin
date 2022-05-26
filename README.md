@@ -18,7 +18,7 @@
   <a href="https://twitter.com/2kmonkeyks" target="_blank"><img align="center" alt"TT" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163567172-b9523cea-6208-4d1f-b540-0eb0411501ff.svg" target="_blank"></a>
   </br>
   <a href="https://github.com/lucaspedrin">
-  <img align="center" src="https://user-images.githubusercontent.com/103728603/163561908-e1d806f8-9d16-4f1e-a756-213ed518dbd7.gif">
+  <img align="center" src="https://user-images.githubusercontent.com/103728603/170395142-0b858a5a-653a-4a08-b9d3-f00348926809.gif">
   </br>
   <img align="center" alt="J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
