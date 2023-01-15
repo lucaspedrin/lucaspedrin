@@ -8,11 +8,6 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspedrin&count_private=true&show_icons=true&theme=radical)](https://github.com/lucaspedrin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspedrin&layout=compact&theme=radical)](https://github.com/lucaspedrin)
-
-##
-
 <div align="center">
   <a href="https://instagram.com/jr.nefake" target="_blank"><img align="center" alt="IG" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163566815-ef3aa04a-c766-45bd-b62c-f5bfafaa6400.svg" target="_blank"></a>
   <a href="https://twitter.com/2kmonkeyks" target="_blank"><img align="center" alt"TT" height="30" width="40" src="https://user-images.githubusercontent.com/103728603/163567172-b9523cea-6208-4d1f-b540-0eb0411501ff.svg" target="_blank"></a>
